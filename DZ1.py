@@ -1,4 +1,4 @@
-"""ways to format strings."""
+"""ways to format strings.""" 
 
 #old string format
 norway_text = 'Automatisering akselererer %syeblikket da roboter vil ' \
