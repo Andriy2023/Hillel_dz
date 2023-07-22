@@ -1,4 +1,4 @@
-"""Compiling a new list using  comprehension."""
+"""Compiling a new list using comprehension."""
 
 from itertools import zip_longest
 
